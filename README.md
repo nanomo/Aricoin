@@ -1,8 +1,5 @@
 Aricoin (ARI) - Aricoin is a new generation of scrypt coin that is descendant of Litecoin. Like Litecoin it uses scrypt as a proof of work scheme.
 
-Aricoin is launched at start of Sochi Winter Olympic Games. During the first month, it will distribute 1894 - 2014 coins per block randomly. Also, every hour there will be a random Bronze Medal Block that has 5000 coins. Every 6 hours there will be a Silver Medal Block with 7000 coins, and every 12 hours there will be a Gold Medal Block with 10000 coins.
-
-After the first month, the coin payout block will decrease gradually:
 
 Block 15,001-50,000, Payout 1000 coins per block
 Block 50,001-150,000, Payout 500 coins per block
