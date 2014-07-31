@@ -1,0 +1,54 @@
+Aricoin (ARI) - Aricoin is a new generation of scrypt coin that is descendant of Litecoin. Like Litecoin it uses scrypt as a proof of work scheme.
+
+Aricoin is launched at start of Sochi Winter Olympic Games. During the first month, it will distribute 1894 - 2014 coins per block randomly. Also, every hour there will be a random Bronze Medal Block that has 5000 coins. Every 6 hours there will be a Silver Medal Block with 7000 coins, and every 12 hours there will be a Gold Medal Block with 10000 coins.
+
+After the first month, the coin payout block will decrease gradually:
+
+Block 15,001-50,000, Payout 1000 coins per block
+Block 50,001-150,000, Payout 500 coins per block
+Block 150,001-300,000, Payout 300 coins per block
+Block 300,001-500,000, Payout 200 coins per block
+Block 500,001-1,000,000, Payout 100 coins per block
+Block 1,000,001 - 2,000,000, Payout 50 coins per block
+Block 2,000,001 - 3,000,000, Payout 10 coins per block
+Block 3,000,001 and afterwards, Payout 1 coin per block
+
+Other Specifications:
+	- 3 min block target
+	- diff retarget each block
+	- 3  transaction confirmations
+	- 50 minted block confirmations
+	- Total coins will be 322,649,400
+	- Difference retargets each block
+
+	- The default ports are 16567 (Connect) and 16568 (RPC)
+
+
+
+Development process
+===================
+
+Developers work in their own trees, then submit pull requests when
+they think their feature or bug fix is ready.
+
+The patch will be accepted if there is broad consensus that it is a
+good thing.  Developers should expect to rework and resubmit patches
+if they don't match the project's coding conventions (see coding.txt)
+or are controversial.
+
+The master branch is regularly built and tested, but is not guaranteed
+to be completely stable. Tags are regularly created to indicate new
+official, stable release versions of Aricoin.
+
+Feature branches are created when there are major new features being
+worked on by several people.
+
+From time to time a pull request will become outdated. If this occurs, and
+the pull is no longer automatically mergeable; a comment on the pull will
+be used to issue a warning of closure. The pull will be closed 15 days
+after the warning if action is not taken by the author. Pull requests closed
+in this manner will have their corresponding issue labeled 'stagnant'.
+
+Issues with no commits will be given a similar warning, and closed after
+15 days from their last activity. Issues closed in this manner will be 
+labeled 'stale'. 
