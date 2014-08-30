@@ -45,7 +45,7 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Aricoins");
+    case BTC: return QString("aricoin");
     case mBTC: return QString("milliari (1 / 1,000)");
     case uBTC: return QString("microari (1 / 1,000,000)");
     default: return QString("???");
